@@ -9,3 +9,5 @@
 - 💬 Ask me about React! 
 - ⚡ hmu for a chat about anything under the sun
 
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauwjh&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauwjh&layout=compact)](https://github.com/mauwjh/github-readme-stats)
